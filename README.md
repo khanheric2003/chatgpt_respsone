@@ -6,5 +6,5 @@ Use --> (command prompt for Window)
 2. .venv/Scripts/activate
 3. pip install -r requirements.txt
 4. Create secret.json --> give OPEN_API_SECRET inside it
-5. fastapi test_fast_api.py
+5. fastapi dev test_fast_api.py
 6. preferably using "http://127.0.0.1:8000/docs" or use Postman to test request
